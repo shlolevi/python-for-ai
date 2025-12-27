@@ -1,5 +1,4 @@
 #   Error handling
-
 # This keeps running even if file doesn't exist
 try:
     with open('data.txt', 'r') as f:
