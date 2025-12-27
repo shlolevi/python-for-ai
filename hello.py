@@ -1,5 +1,5 @@
 # https://python.datalumina.com/
-
+# https://app.datalumina.academy/c/welcome?post_login_redirect=https%3A%2F%2Fapp.datalumina.academy%2F
 
 # import requests
 
